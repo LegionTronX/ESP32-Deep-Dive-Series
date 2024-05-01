@@ -1,7 +1,7 @@
 # ESP32-Deep-Dive-Series
 Welcome to the ESP32 Mastery Series
 
-Hello and thank you for joining us in this engaging series designed to bring you closer to mastering the ESP32, a truly versatile microcontroller that's ready to power your next project. Whether you're a beginner or have some experience, this series will guide you through every step with clarity and support.
+Hello and thank you for joining me in this engaging series designed to bring you closer to mastering the ESP32, a truly versatile microcontroller that's ready to power your next project. Whether you're a beginner or have some experience, this series will guide you through every step with clarity and support.
 
 Why Choose the ESP32?
 The ESP32 is a wonder, perfect for diving into the world of IoT, home automation, and more. It's known for its low power consumption, high integration, and features like in-built antenna switches, RF balun, and power management modules. These capabilities make it an excellent choice for both hobbyists and professional developers.
