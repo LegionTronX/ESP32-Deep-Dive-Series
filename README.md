@@ -1,26 +1,26 @@
 # ESP32-Deep-Dive-Series
 Welcome to the ESP32 Mastery Series
 
-Hello and thank you for joining me in this engaging series designed to bring you closer to mastering the ESP32, a truly versatile microcontroller that's ready to power your next project. Whether you're a beginner or have some experience, this series will guide you through every step with clarity and support.
+**Hello** and thank you for joining me in this engaging series designed to bring you closer to mastering the ESP32, a truly versatile microcontroller that's ready to power your next project. Whether you're a beginner or have some experience, this series will guide you through every step with clarity and support.
 
-Why Choose the ESP32?
+**Why** Choose the ESP32?
 The ESP32 is a wonder, perfect for diving into the world of IoT, home automation, and more. It's known for its low power consumption, high integration, and features like in-built antenna switches, RF balun, and power management modules. These capabilities make it an excellent choice for both hobbyists and professional developers.
 
 Explore Core Functions:
 
-Analog-to-Digital Conversion (ADC): Discover how to convert analog signals into digital data for sensor integration.
+**Analog-to-Digital Conversion (ADC):** Discover how to convert analog signals into digital data for sensor integration.
 
-Pulse-Width Modulation (PWM): Learn precise control over lights, motors, and other devices.
+**Pulse-Width Modulation (PWM):** Learn precise control over lights, motors, and other devices.
 
-I2C Communication: Connect with multiple devices using just two wires.
+**I2C Communication:** Connect with multiple devices using just two wires.
 
-Real-Time Clock (RTC): Maintain accurate timekeeping for your projects.
+**Real-Time Clock (RTC):** Maintain accurate timekeeping for your projects.
 
-Sleep Modes: Optimize power usage to enhance battery life.
+**Sleep Modes:** Optimize power usage to enhance battery life.
 
-Bluetooth Low Energy (BLE): Enable wireless communication for mobile-friendly projects.
+**Bluetooth Low Energy (BLE):** Enable wireless communication for mobile-friendly projects.
 
-Watchdog Timers: Ensure your system's reliability and learn troubleshooting methods.
+**Watchdog Timers:** Ensure your system's reliability and learn troubleshooting methods.
 
 Tools and Libraries:
 Dive into the Espressif IoT Development Framework (ESP-IDF), the official development platform for ESP32. It offers extensive libraries and APIs to boost your application development. https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html
