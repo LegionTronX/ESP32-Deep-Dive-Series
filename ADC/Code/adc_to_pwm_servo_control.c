@@ -64,3 +64,17 @@ void app_main(void) {
         vTaskDelay(pdMS_TO_TICKS(100));  // Delay to stabilize readings.
     }
 }
+
+
+// Final Tips and Best Practices
+// 1. Calibration Accuracy: Always ensure your ADC is well-calibrated to maintain accuracy in readings.
+// 2. PWM Frequency: Be mindful of the PWM frequency settings as they directly affect the smoothness of servo movement.
+// 3. Debugging: Use ESP_LOGI for regular status updates to help with debugging and ensuring your setup operates as expected.
+// 4. Safety First: Initializing the PWM duty to 0 can help prevent any sudden or unexpected movements when the system powers up.
+// 5. Resource Management: Remember to free allocated resources if you modify the application to include exit conditions or error handling.
+// 6. Testing and Verification: Regularly test the full range of your potentiometer and servo to ensure they operate within expected parameters and make adjustments as needed.
+
+
+// Note: For a deeper dive into ADC or PWM tuning, refer to the ESP-IDF documentation at:
+// https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/adc.html
+
