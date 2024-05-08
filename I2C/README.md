@@ -38,3 +38,4 @@ This project showcases the practical implementation of I2C communication for ser
 
 
 https://docs.espressif.com/projects/esp-idf/en/v4.4/esp32/api-reference/peripherals/i2c.html
+![327379750-a90bda8c-bb9b-44a9-9aa5-3485a05c03d2](https://github.com/LegionTronX/ESP32-Deep-Dive-Series/assets/144809804/fae5e917-c58d-4625-95f0-3deb945c4a19)
