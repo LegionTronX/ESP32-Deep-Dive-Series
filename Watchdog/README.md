@@ -30,3 +30,6 @@ https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/system
 //interrupts
 
 https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/peripherals/gpio.html
+
+<img width="733" alt="uppgift2 (1)" src="https://github.com/LegionTronX/ESP32-Deep-Dive-Series/assets/144809804/25283b62-8ecb-4a60-aa60-b2b49c1478db">
+
