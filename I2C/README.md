@@ -34,6 +34,7 @@ The servo motor's position is controlled by varying the pulse width of the PWM (
 **Conclusion**
 
 This project showcases the practical implementation of I2C communication for servo control. Understanding the master-slave architecture and the logic behind servo control via PWM signals provides valuable insights into embedded systems development.
+<img width="1076" alt="Uppgift3 koppling" src="https://github.com/LegionTronX/ESP32-Deep-Dive-Series/assets/144809804/8b5822f1-685a-453f-9c28-64ea96a35c4a">
 
 
 https://docs.espressif.com/projects/esp-idf/en/v4.4/esp32/api-reference/peripherals/i2c.html
