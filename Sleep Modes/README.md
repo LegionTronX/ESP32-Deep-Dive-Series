@@ -32,3 +32,4 @@ This project emphasizes the importance of deep sleep mode in achieving optimal p
 - GPIO Interrupt Handling Documentation: [ESP32 GPIO Interrupts](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/peripherals/gpio.html)
   ![Screenshot 2024-02-28 163316 (1)](https://github.com/LegionTronX/ESP32-Deep-Dive-Series/assets/144809804/2794fcd3-3375-4c6a-90ce-27c20631ae85)
 
+![327379750-a90bda8c-bb9b-44a9-9aa5-3485a05c03d2](https://github.com/LegionTronX/ESP32-Deep-Dive-Series/assets/144809804/a9456df5-aa08-46df-9b85-2d4c6c90004e)
